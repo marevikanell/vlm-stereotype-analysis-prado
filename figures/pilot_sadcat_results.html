@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Pilot Test SADCAT Results</title>
+<style>
+body { font-family: Arial, sans-serif; max-width: 900px; margin: 2rem auto; padding: 0 1rem; background: #fff; color: #2c3e50; }
+h1 { font-size: 22px; font-weight: 500; margin-bottom: 0.5rem; }
+h2 { font-size: 16px; font-weight: 500; color: #7f8c8d; margin-bottom: 1.5rem; }
+.metrics { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 2rem; }
+.metric { background: #f8f9fa; border-radius: 8px; padding: 1rem; }
+.metric .label { font-size: 13px; color: #7f8c8d; margin: 0 0 4px; }
+.metric .value { font-size: 24px; font-weight: 500; margin: 0; }
+.metric .sub { font-size: 11px; color: #adb5bd; margin: 4px 0 0; }
+.chart-container { position: relative; width: 100%; height: 320px; margin-bottom: 1rem; }
+.legend { display: flex; flex-wrap: wrap; gap: 16px; margin: 12px 0 2rem; font-size: 12px; color: #7f8c8d; }
+.legend span { display: flex; align-items: center; gap: 4px; }
+.legend .dot { width: 10px; height: 10px; border-radius: 2px; }
+.section-title { font-size: 14px; font-weight: 500; color: #2c3e50; margin: 2rem 0 1rem; }
+.note { font-size: 13px; color: #7f8c8d; line-height: 1.6; margin-top: 2rem; padding: 1rem; background: #f8f9fa; border-radius: 8px; }
+</style>
+</head>
+<body>
+
+<h1>Pilot Test SADCAT Scoring Results</h1>
+<h2>30 artworks · 121 figures · Qwen2.5-VL-7B-Instruct → SADCAT (English)</h2>
+
+<div class="metrics">
+  <div class="metric">
+    <p class="label">Coverage</p>
+    <p class="value">52.2%</p>
+    <p class="sub">avg dictionary hit rate</p>
+  </div>
+  <div class="metric">
+    <p class="label">Figures scored</p>
+    <p class="value">121</p>
+    <p class="sub">109 warmth, 119 competence</p>
+  </div>
+  <div class="metric">
+    <p class="label">Zero coverage</p>
+    <p class="value">0</p>
+    <p class="sub">all figures have matches</p>
+  </div>
+  <div class="metric">
+    <p class="label">Coverage range</p>
+    <p class="value">17–100%</p>
+    <p class="sub">median 50%</p>
+  </div>
+</div>
+
+<p class="section-title">Warmth vs competence by context and gender</p>
+<div class="chart-container">
+  <canvas id="asymChart"></canvas>
+</div>
+<div class="legend">
+  <span><span class="dot" style="background: #534AB7;"></span>Religious male (n=51)</span>
+  <span><span class="dot" style="background: #CECBF6;"></span>Religious female (n=19)</span>
+  <span><span class="dot" style="background: #0F6E56;"></span>Secular male (n=32)</span>
+  <span><span class="dot" style="background: #9FE1CB;"></span>Secular female (n=19)</span>
+</div>
+
+<p class="section-title">All SCM dimensions by gender</p>
+<div class="chart-container" style="height: 300px;">
+  <canvas id="dimChart"></canvas>
+</div>
+<div class="legend">
+  <span><span class="dot" style="background: #534AB7;"></span>Male (n=83)</span>
+  <span><span class="dot" style="background: #D4537E;"></span>Female (n=38)</span>
+</div>
+
+<div class="note">
+  <strong>Key findings from pilot:</strong><br>
+  H1 (gender asymmetry): Female W−C = +0.165, Male W−C = −0.215 — females portrayed warmer-than-competent, males the reverse.<br>
+  H2 (religious amplification): Gender asymmetry gap is 0.596 in religious context vs 0.139 in secular — ~4× amplification.<br>
+  Subfacets: Women score higher on sociability (+0.67 vs +0.50) and morality (+0.19 vs +0.08); men higher on ability (+0.84 vs +0.65) and assertiveness (+0.21 vs +0.05).<br>
+  Pipeline: Qwen2.5-VL → parse figures → SADCAT (English, values3) → warmth/competence scores. Validated and ready for full batch.
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+new Chart(document.getElementById('asymChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Religious male', 'Religious female', 'Secular male', 'Secular female'],
+    datasets: [
+      { label: 'Warmth', data: [0.289, 0.450, 0.399, 0.476], backgroundColor: ['#534AB7','#CECBF6','#0F6E56','#9FE1CB'] },
+      { label: 'Competence', data: [0.574, 0.120, 0.553, 0.392], backgroundColor: ['#3C3489','#AFA9EC','#085041','#5DCAA5'] },
+    ]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: {
+      legend: { display: true, position: 'top', labels: { font: { size: 12 }, usePointStyle: true, pointStyle: 'rectRounded' } },
+    },
+    scales: {
+      y: { min: -0.1, max: 0.7, title: { display: true, text: 'Mean direction score', font: { size: 12 } } },
+      x: { ticks: { font: { size: 11 } } }
+    }
+  }
+});
+
+new Chart(document.getElementById('dimChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Warmth', 'Competence', 'Sociability', 'Morality', 'Ability', 'Assertiveness', 'Status'],
+    datasets: [
+      { label: 'Male', data: [0.333, 0.566, 0.495, 0.076, 0.837, 0.210, 0.800], backgroundColor: '#534AB7' },
+      { label: 'Female', data: [0.463, 0.264, 0.672, 0.194, 0.652, 0.050, 0.766], backgroundColor: '#D4537E' },
+    ]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      y: { min: -0.1, max: 1.0, title: { display: true, text: 'Mean direction score', font: { size: 12 } } },
+      x: { ticks: { autoSkip: false, font: { size: 11 } } }
+    }
+  }
+});
+</script>
+
+</body>
+</html>
