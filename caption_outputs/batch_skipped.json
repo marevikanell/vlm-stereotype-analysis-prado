@@ -1,0 +1,2861 @@
+{
+  "non_human_figures": [
+    {
+      "cat_no": "P000060",
+      "figure_num": 4,
+      "raw_label": "Child Angel"
+    },
+    {
+      "cat_no": "P000060",
+      "figure_num": 5,
+      "raw_label": "Elderly Man"
+    },
+    {
+      "cat_no": "P000073",
+      "figure_num": 5,
+      "raw_label": "Skull"
+    },
+    {
+      "cat_no": "P000119",
+      "figure_num": 3,
+      "raw_label": "Bird"
+    },
+    {
+      "cat_no": "P000119",
+      "figure_num": 4,
+      "raw_label": "Animal"
+    },
+    {
+      "cat_no": "P000119",
+      "figure_num": 5,
+      "raw_label": "Landscape"
+    },
+    {
+      "cat_no": "P000125",
+      "figure_num": 4,
+      "raw_label": "Bull"
+    },
+    {
+      "cat_no": "P000125",
+      "figure_num": 5,
+      "raw_label": "Starry Sky"
+    },
+    {
+      "cat_no": "P000130",
+      "figure_num": 5,
+      "raw_label": "Male Lion"
+    },
+    {
+      "cat_no": "P000154",
+      "figure_num": 5,
+      "raw_label": "Animal"
+    },
+    {
+      "cat_no": "P000168",
+      "figure_num": 5,
+      "raw_label": "Adult Male"
+    },
+    {
+      "cat_no": "P000169",
+      "figure_num": 5,
+      "raw_label": "Sheep"
+    },
+    {
+      "cat_no": "P000244",
+      "figure_num": 5,
+      "raw_label": "Landscape"
+    },
+    {
+      "cat_no": "P000281",
+      "figure_num": 3,
+      "raw_label": "Child 1"
+    },
+    {
+      "cat_no": "P000281",
+      "figure_num": 4,
+      "raw_label": "Child 2"
+    },
+    {
+      "cat_no": "P000287",
+      "figure_num": 4,
+      "raw_label": "Child (Naked)"
+    },
+    {
+      "cat_no": "P000301",
+      "figure_num": 4,
+      "raw_label": "Child (Angel)"
+    },
+    {
+      "cat_no": "P000301",
+      "figure_num": 5,
+      "raw_label": "Child (Another Angel)"
+    },
+    {
+      "cat_no": "P000308",
+      "figure_num": 3,
+      "raw_label": "Mouse"
+    },
+    {
+      "cat_no": "P000314",
+      "figure_num": 5,
+      "raw_label": "Male (Background)"
+    },
+    {
+      "cat_no": "P000319",
+      "figure_num": 1,
+      "raw_label": "Turtle"
+    },
+    {
+      "cat_no": "P000319",
+      "figure_num": 2,
+      "raw_label": "Fish (Large)"
+    },
+    {
+      "cat_no": "P000319",
+      "figure_num": 3,
+      "raw_label": "Fish (Medium)"
+    },
+    {
+      "cat_no": "P000319",
+      "figure_num": 4,
+      "raw_label": "Squid"
+    },
+    {
+      "cat_no": "P000319",
+      "figure_num": 5,
+      "raw_label": "Fish (Small)"
+    },
+    {
+      "cat_no": "P000349",
+      "figure_num": 4,
+      "raw_label": "Animal"
+    },
+    {
+      "cat_no": "P000420",
+      "figure_num": 3,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P000420",
+      "figure_num": 4,
+      "raw_label": "Organ pipes"
+    },
+    {
+      "cat_no": "P000420",
+      "figure_num": 5,
+      "raw_label": "Trees and landscape"
+    },
+    {
+      "cat_no": "P000421",
+      "figure_num": 4,
+      "raw_label": "Organist"
+    },
+    {
+      "cat_no": "P000421",
+      "figure_num": 5,
+      "raw_label": "Background Figure"
+    },
+    {
+      "cat_no": "P000482",
+      "figure_num": 4,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P000539",
+      "figure_num": 5,
+      "raw_label": "Male (Background)"
+    },
+    {
+      "cat_no": "P000555",
+      "figure_num": 3,
+      "raw_label": "Christ Child"
+    },
+    {
+      "cat_no": "P000556",
+      "figure_num": 5,
+      "raw_label": "Older Male"
+    },
+    {
+      "cat_no": "P000569",
+      "figure_num": 1,
+      "raw_label": "Bird"
+    },
+    {
+      "cat_no": "P000569",
+      "figure_num": 2,
+      "raw_label": "Bouquet of Flowers"
+    },
+    {
+      "cat_no": "P000569",
+      "figure_num": 3,
+      "raw_label": "Reflection of the Bouquet"
+    },
+    {
+      "cat_no": "P000569",
+      "figure_num": 4,
+      "raw_label": "Water"
+    },
+    {
+      "cat_no": "P000569",
+      "figure_num": 5,
+      "raw_label": "Bird in Flight"
+    },
+    {
+      "cat_no": "P000619",
+      "figure_num": 5,
+      "raw_label": "Baby John the Baptist"
+    },
+    {
+      "cat_no": "P000895",
+      "figure_num": 4,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P000895",
+      "figure_num": 5,
+      "raw_label": "Tree"
+    },
+    {
+      "cat_no": "P000901",
+      "figure_num": 3,
+      "raw_label": "Child (in the lap)"
+    },
+    {
+      "cat_no": "P000901",
+      "figure_num": 4,
+      "raw_label": "Child (sleeping)"
+    },
+    {
+      "cat_no": "P000901",
+      "figure_num": 5,
+      "raw_label": "Child (being held)"
+    },
+    {
+      "cat_no": "P000925",
+      "figure_num": 1,
+      "raw_label": "Inanimate Object (Quinces)"
+    },
+    {
+      "cat_no": "P000925",
+      "figure_num": 2,
+      "raw_label": "Inanimate Object (Butterfly)"
+    },
+    {
+      "cat_no": "P000925",
+      "figure_num": 3,
+      "raw_label": "Inanimate Object (Bowl)"
+    },
+    {
+      "cat_no": "P000925",
+      "figure_num": 4,
+      "raw_label": "Inanimate Object (Jar)"
+    },
+    {
+      "cat_no": "P000925",
+      "figure_num": 5,
+      "raw_label": "Inanimate Object (Wooden Basket)"
+    },
+    {
+      "cat_no": "P000960",
+      "figure_num": 4,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P000960",
+      "figure_num": 5,
+      "raw_label": "Basket"
+    },
+    {
+      "cat_no": "P001007",
+      "figure_num": 3,
+      "raw_label": "Cat"
+    },
+    {
+      "cat_no": "P001007",
+      "figure_num": 4,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P001007",
+      "figure_num": 5,
+      "raw_label": "Rooster"
+    },
+    {
+      "cat_no": "P001062",
+      "figure_num": 5,
+      "raw_label": "Lamb"
+    },
+    {
+      "cat_no": "P001107",
+      "figure_num": 3,
+      "raw_label": "Skull"
+    },
+    {
+      "cat_no": "P001107",
+      "figure_num": 4,
+      "raw_label": "Table"
+    },
+    {
+      "cat_no": "P001107",
+      "figure_num": 5,
+      "raw_label": "Background"
+    },
+    {
+      "cat_no": "P001111",
+      "figure_num": 3,
+      "raw_label": "Staff"
+    },
+    {
+      "cat_no": "P001111",
+      "figure_num": 4,
+      "raw_label": "Globe"
+    },
+    {
+      "cat_no": "P001111",
+      "figure_num": 5,
+      "raw_label": "Background"
+    },
+    {
+      "cat_no": "P001341",
+      "figure_num": 1,
+      "raw_label": "Fish"
+    },
+    {
+      "cat_no": "P001341",
+      "figure_num": 2,
+      "raw_label": "Oysters"
+    },
+    {
+      "cat_no": "P001341",
+      "figure_num": 3,
+      "raw_label": "Cat"
+    },
+    {
+      "cat_no": "P001341",
+      "figure_num": 4,
+      "raw_label": "Fish in the Bucket"
+    },
+    {
+      "cat_no": "P001341",
+      "figure_num": 5,
+      "raw_label": "Green Bowl"
+    },
+    {
+      "cat_no": "P001362",
+      "figure_num": 5,
+      "raw_label": "Monkey"
+    },
+    {
+      "cat_no": "P001364",
+      "figure_num": 3,
+      "raw_label": "Parrot"
+    },
+    {
+      "cat_no": "P001364",
+      "figure_num": 4,
+      "raw_label": "Table"
+    },
+    {
+      "cat_no": "P001364",
+      "figure_num": 5,
+      "raw_label": "Tablecloth"
+    },
+    {
+      "cat_no": "P001366",
+      "figure_num": 1,
+      "raw_label": "Peacock**"
+    },
+    {
+      "cat_no": "P001370",
+      "figure_num": 5,
+      "raw_label": "Floral Arrangement"
+    },
+    {
+      "cat_no": "P001394",
+      "figure_num": 3,
+      "raw_label": "Child-like Figure"
+    },
+    {
+      "cat_no": "P001478",
+      "figure_num": 3,
+      "raw_label": "Cat"
+    },
+    {
+      "cat_no": "P001478",
+      "figure_num": 4,
+      "raw_label": "Scroll"
+    },
+    {
+      "cat_no": "P001478",
+      "figure_num": 5,
+      "raw_label": "Book"
+    },
+    {
+      "cat_no": "P001518",
+      "figure_num": 4,
+      "raw_label": "Cloud-like Figure"
+    },
+    {
+      "cat_no": "P001528",
+      "figure_num": 3,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P001528",
+      "figure_num": 4,
+      "raw_label": "Birdcage"
+    },
+    {
+      "cat_no": "P001528",
+      "figure_num": 5,
+      "raw_label": "Dead Birds"
+    },
+    {
+      "cat_no": "P001575",
+      "figure_num": 4,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P001584",
+      "figure_num": 4,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P001584",
+      "figure_num": 5,
+      "raw_label": "Swan"
+    },
+    {
+      "cat_no": "P001641",
+      "figure_num": 5,
+      "raw_label": "Woman in Red Robe"
+    },
+    {
+      "cat_no": "P001644",
+      "figure_num": 3,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P001644",
+      "figure_num": 4,
+      "raw_label": "Figure behind the central figure"
+    },
+    {
+      "cat_no": "P001644",
+      "figure_num": 5,
+      "raw_label": "Figure in the background"
+    },
+    {
+      "cat_no": "P001664",
+      "figure_num": 5,
+      "raw_label": "Parrot"
+    },
+    {
+      "cat_no": "P001668",
+      "figure_num": 4,
+      "raw_label": "Peacock"
+    },
+    {
+      "cat_no": "P001668",
+      "figure_num": 5,
+      "raw_label": "Dragon"
+    },
+    {
+      "cat_no": "P001750",
+      "figure_num": 4,
+      "raw_label": "Inanimate Object"
+    },
+    {
+      "cat_no": "P001750",
+      "figure_num": 5,
+      "raw_label": "Inanimate Object"
+    },
+    {
+      "cat_no": "P001758",
+      "figure_num": 3,
+      "raw_label": "Owl"
+    },
+    {
+      "cat_no": "P001758",
+      "figure_num": 4,
+      "raw_label": "Parrot"
+    },
+    {
+      "cat_no": "P001758",
+      "figure_num": 5,
+      "raw_label": "Bird with Tail Feathers"
+    },
+    {
+      "cat_no": "P001771",
+      "figure_num": 1,
+      "raw_label": "Squirrel"
+    },
+    {
+      "cat_no": "P001771",
+      "figure_num": 2,
+      "raw_label": "Grapes"
+    },
+    {
+      "cat_no": "P001771",
+      "figure_num": 3,
+      "raw_label": "Bowl"
+    },
+    {
+      "cat_no": "P001771",
+      "figure_num": 4,
+      "raw_label": "Plate"
+    },
+    {
+      "cat_no": "P001771",
+      "figure_num": 5,
+      "raw_label": "Tablecloth"
+    },
+    {
+      "cat_no": "P001777",
+      "figure_num": 1,
+      "raw_label": "Inanimate Object (Lobster)"
+    },
+    {
+      "cat_no": "P001777",
+      "figure_num": 2,
+      "raw_label": "Inanimate Object (Fruit Bowl)"
+    },
+    {
+      "cat_no": "P001777",
+      "figure_num": 3,
+      "raw_label": "Inanimate Object (Grapes)"
+    },
+    {
+      "cat_no": "P001777",
+      "figure_num": 4,
+      "raw_label": "Inanimate Object (Apples)"
+    },
+    {
+      "cat_no": "P001777",
+      "figure_num": 5,
+      "raw_label": "Inanimate Object (Pears)"
+    },
+    {
+      "cat_no": "P001783",
+      "figure_num": 5,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P001800",
+      "figure_num": 5,
+      "raw_label": "Cat"
+    },
+    {
+      "cat_no": "P001851",
+      "figure_num": 4,
+      "raw_label": "Peacock"
+    },
+    {
+      "cat_no": "P001851",
+      "figure_num": 5,
+      "raw_label": "Assorted Animals and Objects"
+    },
+    {
+      "cat_no": "P001868",
+      "figure_num": 1,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P001904",
+      "figure_num": 1,
+      "raw_label": "Rabbit"
+    },
+    {
+      "cat_no": "P001904",
+      "figure_num": 2,
+      "raw_label": "Flowers"
+    },
+    {
+      "cat_no": "P001904",
+      "figure_num": 3,
+      "raw_label": "Fruits"
+    },
+    {
+      "cat_no": "P001904",
+      "figure_num": 4,
+      "raw_label": "Birds"
+    },
+    {
+      "cat_no": "P001904",
+      "figure_num": 5,
+      "raw_label": "Basket"
+    },
+    {
+      "cat_no": "P001909",
+      "figure_num": 5,
+      "raw_label": "Floral Arrangement"
+    },
+    {
+      "cat_no": "P001965",
+      "figure_num": 5,
+      "raw_label": "Donkey"
+    },
+    {
+      "cat_no": "P001989",
+      "figure_num": 1,
+      "raw_label": "Inanimate Object (Red Vase)"
+    },
+    {
+      "cat_no": "P001989",
+      "figure_num": 2,
+      "raw_label": "Grapes"
+    },
+    {
+      "cat_no": "P001989",
+      "figure_num": 3,
+      "raw_label": "Bird"
+    },
+    {
+      "cat_no": "P001989",
+      "figure_num": 4,
+      "raw_label": "Shell"
+    },
+    {
+      "cat_no": "P001989",
+      "figure_num": 5,
+      "raw_label": "Leafy Branch"
+    },
+    {
+      "cat_no": "P002146",
+      "figure_num": 4,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P002146",
+      "figure_num": 5,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P002207",
+      "figure_num": 4,
+      "raw_label": "Infant 1"
+    },
+    {
+      "cat_no": "P002207",
+      "figure_num": 5,
+      "raw_label": "Infant 2"
+    },
+    {
+      "cat_no": "P002218",
+      "figure_num": 4,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P002287",
+      "figure_num": 1,
+      "raw_label": "Bird"
+    },
+    {
+      "cat_no": "P002287",
+      "figure_num": 2,
+      "raw_label": "Bouquet of Flowers"
+    },
+    {
+      "cat_no": "P002453",
+      "figure_num": 4,
+      "raw_label": "Male (Background)"
+    },
+    {
+      "cat_no": "P002486",
+      "figure_num": 5,
+      "raw_label": "Animal"
+    },
+    {
+      "cat_no": "P002522",
+      "figure_num": 3,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P002524",
+      "figure_num": 4,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P002539",
+      "figure_num": 5,
+      "raw_label": "Deceased"
+    },
+    {
+      "cat_no": "P002546",
+      "figure_num": 5,
+      "raw_label": "Bird"
+    },
+    {
+      "cat_no": "P002607",
+      "figure_num": 5,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P002631",
+      "figure_num": 4,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P002631",
+      "figure_num": 5,
+      "raw_label": "Dove"
+    },
+    {
+      "cat_no": "P002634",
+      "figure_num": 5,
+      "raw_label": "Donkey"
+    },
+    {
+      "cat_no": "P002650",
+      "figure_num": 3,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P002659",
+      "figure_num": 5,
+      "raw_label": "Landscape"
+    },
+    {
+      "cat_no": "P002699",
+      "figure_num": 3,
+      "raw_label": "Man in the background"
+    },
+    {
+      "cat_no": "P002699",
+      "figure_num": 4,
+      "raw_label": "Woman in the background"
+    },
+    {
+      "cat_no": "P002699",
+      "figure_num": 5,
+      "raw_label": "Tree"
+    },
+    {
+      "cat_no": "P002700",
+      "figure_num": 5,
+      "raw_label": "Architectural Element"
+    },
+    {
+      "cat_no": "P002707",
+      "figure_num": 2,
+      "raw_label": "Child Jesus"
+    },
+    {
+      "cat_no": "P002750",
+      "figure_num": 1,
+      "raw_label": "Fish"
+    },
+    {
+      "cat_no": "P002750",
+      "figure_num": 2,
+      "raw_label": "Seashells"
+    },
+    {
+      "cat_no": "P002750",
+      "figure_num": 3,
+      "raw_label": "Small Fishes"
+    },
+    {
+      "cat_no": "P002750",
+      "figure_num": 4,
+      "raw_label": "Larger Fish"
+    },
+    {
+      "cat_no": "P002750",
+      "figure_num": 5,
+      "raw_label": "Seashells"
+    },
+    {
+      "cat_no": "P002752",
+      "figure_num": 4,
+      "raw_label": "Animal"
+    },
+    {
+      "cat_no": "P002752",
+      "figure_num": 5,
+      "raw_label": "Animal"
+    },
+    {
+      "cat_no": "P002763",
+      "figure_num": 4,
+      "raw_label": "Male (background)"
+    },
+    {
+      "cat_no": "P002799",
+      "figure_num": 3,
+      "raw_label": "Calf"
+    },
+    {
+      "cat_no": "P002799",
+      "figure_num": 4,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P002799",
+      "figure_num": 5,
+      "raw_label": "Sheep"
+    },
+    {
+      "cat_no": "P002832",
+      "figure_num": 4,
+      "raw_label": "Architectural Structure"
+    },
+    {
+      "cat_no": "P002832",
+      "figure_num": 5,
+      "raw_label": "Table"
+    },
+    {
+      "cat_no": "P002894",
+      "figure_num": 3,
+      "raw_label": "Tree"
+    },
+    {
+      "cat_no": "P002894",
+      "figure_num": 4,
+      "raw_label": "Grapes"
+    },
+    {
+      "cat_no": "P002894",
+      "figure_num": 5,
+      "raw_label": "Bench"
+    },
+    {
+      "cat_no": "P002934",
+      "figure_num": 1,
+      "raw_label": "Gun**"
+    },
+    {
+      "cat_no": "P003105",
+      "figure_num": 5,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P003196",
+      "figure_num": 3,
+      "raw_label": "Animal (likely a cow)"
+    },
+    {
+      "cat_no": "P003213",
+      "figure_num": 5,
+      "raw_label": "Animal (Dog)"
+    },
+    {
+      "cat_no": "P003234",
+      "figure_num": 4,
+      "raw_label": "Woman on the right"
+    },
+    {
+      "cat_no": "P003234",
+      "figure_num": 5,
+      "raw_label": "Man on the far left"
+    },
+    {
+      "cat_no": "P003306",
+      "figure_num": 1,
+      "raw_label": "Bird"
+    },
+    {
+      "cat_no": "P003306",
+      "figure_num": 2,
+      "raw_label": "Oranges"
+    },
+    {
+      "cat_no": "P003306",
+      "figure_num": 3,
+      "raw_label": "Lemons"
+    },
+    {
+      "cat_no": "P003306",
+      "figure_num": 4,
+      "raw_label": "Orange Peel"
+    },
+    {
+      "cat_no": "P003306",
+      "figure_num": 5,
+      "raw_label": "Branch"
+    },
+    {
+      "cat_no": "P003323",
+      "figure_num": 4,
+      "raw_label": "Donkey"
+    },
+    {
+      "cat_no": "P003323",
+      "figure_num": 5,
+      "raw_label": "Tree"
+    },
+    {
+      "cat_no": "P003367",
+      "figure_num": 5,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P003469",
+      "figure_num": 3,
+      "raw_label": "Cherub 1"
+    },
+    {
+      "cat_no": "P003469",
+      "figure_num": 4,
+      "raw_label": "Cherub 2"
+    },
+    {
+      "cat_no": "P003469",
+      "figure_num": 5,
+      "raw_label": "Cherub 3"
+    },
+    {
+      "cat_no": "P003484",
+      "figure_num": 3,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P003590",
+      "figure_num": 4,
+      "raw_label": "Male (Background)"
+    },
+    {
+      "cat_no": "P003661",
+      "figure_num": 2,
+      "raw_label": "Skull"
+    },
+    {
+      "cat_no": "P003661",
+      "figure_num": 3,
+      "raw_label": "Globe"
+    },
+    {
+      "cat_no": "P003661",
+      "figure_num": 4,
+      "raw_label": "Palette"
+    },
+    {
+      "cat_no": "P003661",
+      "figure_num": 5,
+      "raw_label": "Book"
+    },
+    {
+      "cat_no": "P003671",
+      "figure_num": 3,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P003671",
+      "figure_num": 4,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P003671",
+      "figure_num": 5,
+      "raw_label": "Donkey"
+    },
+    {
+      "cat_no": "P003674",
+      "figure_num": 4,
+      "raw_label": "Rabbit"
+    },
+    {
+      "cat_no": "P003674",
+      "figure_num": 5,
+      "raw_label": "Hanging Birds"
+    },
+    {
+      "cat_no": "P003675",
+      "figure_num": 5,
+      "raw_label": "Sheep"
+    },
+    {
+      "cat_no": "P003704",
+      "figure_num": 1,
+      "raw_label": "Cat"
+    },
+    {
+      "cat_no": "P003704",
+      "figure_num": 2,
+      "raw_label": "Cat"
+    },
+    {
+      "cat_no": "P003704",
+      "figure_num": 3,
+      "raw_label": "Hanging Animal Carcass"
+    },
+    {
+      "cat_no": "P003704",
+      "figure_num": 4,
+      "raw_label": "Fireplace"
+    },
+    {
+      "cat_no": "P003704",
+      "figure_num": 5,
+      "raw_label": "Table"
+    },
+    {
+      "cat_no": "P003741",
+      "figure_num": 3,
+      "raw_label": "Dragonfly"
+    },
+    {
+      "cat_no": "P003741",
+      "figure_num": 4,
+      "raw_label": "Feather"
+    },
+    {
+      "cat_no": "P003741",
+      "figure_num": 5,
+      "raw_label": "Background"
+    },
+    {
+      "cat_no": "P003822",
+      "figure_num": 4,
+      "raw_label": "Tree"
+    },
+    {
+      "cat_no": "P003822",
+      "figure_num": 5,
+      "raw_label": "Landscape"
+    },
+    {
+      "cat_no": "P003894",
+      "figure_num": 4,
+      "raw_label": "Object"
+    },
+    {
+      "cat_no": "P003894",
+      "figure_num": 5,
+      "raw_label": "Object"
+    },
+    {
+      "cat_no": "P003948",
+      "figure_num": 2,
+      "raw_label": "Chickens"
+    },
+    {
+      "cat_no": "P003948",
+      "figure_num": 3,
+      "raw_label": "Tree"
+    },
+    {
+      "cat_no": "P003948",
+      "figure_num": 4,
+      "raw_label": "Fence"
+    },
+    {
+      "cat_no": "P003948",
+      "figure_num": 5,
+      "raw_label": "Train"
+    },
+    {
+      "cat_no": "P004002",
+      "figure_num": 1,
+      "raw_label": "Rabbit"
+    },
+    {
+      "cat_no": "P004002",
+      "figure_num": 2,
+      "raw_label": "Fish"
+    },
+    {
+      "cat_no": "P004002",
+      "figure_num": 3,
+      "raw_label": "Grapes"
+    },
+    {
+      "cat_no": "P004002",
+      "figure_num": 4,
+      "raw_label": "Peaches"
+    },
+    {
+      "cat_no": "P004002",
+      "figure_num": 5,
+      "raw_label": "Figs"
+    },
+    {
+      "cat_no": "P004050",
+      "figure_num": 4,
+      "raw_label": "Cattle"
+    },
+    {
+      "cat_no": "P004050",
+      "figure_num": 5,
+      "raw_label": "Cattle"
+    },
+    {
+      "cat_no": "P004133",
+      "figure_num": 1,
+      "raw_label": "Inanimate Object (Jar)"
+    },
+    {
+      "cat_no": "P004133",
+      "figure_num": 2,
+      "raw_label": "Figs"
+    },
+    {
+      "cat_no": "P004133",
+      "figure_num": 3,
+      "raw_label": "Hen"
+    },
+    {
+      "cat_no": "P004133",
+      "figure_num": 4,
+      "raw_label": "Plate"
+    },
+    {
+      "cat_no": "P004133",
+      "figure_num": 5,
+      "raw_label": "Canned Food"
+    },
+    {
+      "cat_no": "P004143",
+      "figure_num": 2,
+      "raw_label": "Cat"
+    },
+    {
+      "cat_no": "P004143",
+      "figure_num": 3,
+      "raw_label": "Animal (possibly a goat)"
+    },
+    {
+      "cat_no": "P004143",
+      "figure_num": 4,
+      "raw_label": "Tree"
+    },
+    {
+      "cat_no": "P004143",
+      "figure_num": 5,
+      "raw_label": "Sky"
+    },
+    {
+      "cat_no": "P004152",
+      "figure_num": 5,
+      "raw_label": "Lamb"
+    },
+    {
+      "cat_no": "P004158",
+      "figure_num": 1,
+      "raw_label": "Cat"
+    },
+    {
+      "cat_no": "P004193",
+      "figure_num": 3,
+      "raw_label": "Donkey"
+    },
+    {
+      "cat_no": "P004198",
+      "figure_num": 1,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P004215",
+      "figure_num": 3,
+      "raw_label": "Animal (Goat)"
+    },
+    {
+      "cat_no": "P004215",
+      "figure_num": 4,
+      "raw_label": "Animal (Sheep)"
+    },
+    {
+      "cat_no": "P004215",
+      "figure_num": 5,
+      "raw_label": "Animal (Dog)"
+    },
+    {
+      "cat_no": "P004217",
+      "figure_num": 5,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P004251",
+      "figure_num": 3,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P004251",
+      "figure_num": 4,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P004251",
+      "figure_num": 5,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P004288",
+      "figure_num": 4,
+      "raw_label": "Horse (Left)"
+    },
+    {
+      "cat_no": "P004288",
+      "figure_num": 5,
+      "raw_label": "Horse (Right)"
+    },
+    {
+      "cat_no": "P004311",
+      "figure_num": 2,
+      "raw_label": "Skull"
+    },
+    {
+      "cat_no": "P004311",
+      "figure_num": 3,
+      "raw_label": "Bones"
+    },
+    {
+      "cat_no": "P004311",
+      "figure_num": 4,
+      "raw_label": "Plants"
+    },
+    {
+      "cat_no": "P004311",
+      "figure_num": 5,
+      "raw_label": "Books"
+    },
+    {
+      "cat_no": "P004337",
+      "figure_num": 3,
+      "raw_label": "Fox"
+    },
+    {
+      "cat_no": "P004337",
+      "figure_num": 4,
+      "raw_label": "Hen"
+    },
+    {
+      "cat_no": "P004337",
+      "figure_num": 5,
+      "raw_label": "Rooster"
+    },
+    {
+      "cat_no": "P004339",
+      "figure_num": 4,
+      "raw_label": "Cat"
+    },
+    {
+      "cat_no": "P004339",
+      "figure_num": 5,
+      "raw_label": "Another Cat"
+    },
+    {
+      "cat_no": "P004606",
+      "figure_num": 3,
+      "raw_label": "Sheep"
+    },
+    {
+      "cat_no": "P004606",
+      "figure_num": 4,
+      "raw_label": "Sheep"
+    },
+    {
+      "cat_no": "P004606",
+      "figure_num": 5,
+      "raw_label": "Sheep"
+    },
+    {
+      "cat_no": "P004608",
+      "figure_num": 4,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P004726",
+      "figure_num": 5,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P004732",
+      "figure_num": 4,
+      "raw_label": "Bottle"
+    },
+    {
+      "cat_no": "P004732",
+      "figure_num": 5,
+      "raw_label": "Basket"
+    },
+    {
+      "cat_no": "P004743",
+      "figure_num": 5,
+      "raw_label": "Casket"
+    },
+    {
+      "cat_no": "P004785",
+      "figure_num": 5,
+      "raw_label": "Woman in the distance"
+    },
+    {
+      "cat_no": "P004838",
+      "figure_num": 3,
+      "raw_label": "Bird"
+    },
+    {
+      "cat_no": "P004838",
+      "figure_num": 4,
+      "raw_label": "Bird"
+    },
+    {
+      "cat_no": "P004838",
+      "figure_num": 5,
+      "raw_label": "Rabbit"
+    },
+    {
+      "cat_no": "P004839",
+      "figure_num": 3,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P005054",
+      "figure_num": 4,
+      "raw_label": "Donkey"
+    },
+    {
+      "cat_no": "P005054",
+      "figure_num": 5,
+      "raw_label": "Palm Tree"
+    },
+    {
+      "cat_no": "P005127",
+      "figure_num": 3,
+      "raw_label": "Cat"
+    },
+    {
+      "cat_no": "P005127",
+      "figure_num": 4,
+      "raw_label": "House"
+    },
+    {
+      "cat_no": "P005127",
+      "figure_num": 5,
+      "raw_label": "Landscape"
+    },
+    {
+      "cat_no": "P005161",
+      "figure_num": 4,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P005161",
+      "figure_num": 5,
+      "raw_label": "Shepherd"
+    },
+    {
+      "cat_no": "P005170",
+      "figure_num": 5,
+      "raw_label": "Dove"
+    },
+    {
+      "cat_no": "P005178",
+      "figure_num": 4,
+      "raw_label": "Child (Infant)"
+    },
+    {
+      "cat_no": "P005226",
+      "figure_num": 5,
+      "raw_label": "Scroll"
+    },
+    {
+      "cat_no": "P005373",
+      "figure_num": 4,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P005373",
+      "figure_num": 5,
+      "raw_label": "Bed"
+    },
+    {
+      "cat_no": "P005434",
+      "figure_num": 4,
+      "raw_label": "Goat"
+    },
+    {
+      "cat_no": "P005442",
+      "figure_num": 4,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P005442",
+      "figure_num": 5,
+      "raw_label": "Cat"
+    },
+    {
+      "cat_no": "P005443",
+      "figure_num": 4,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P005443",
+      "figure_num": 5,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P005446",
+      "figure_num": 4,
+      "raw_label": "Male (Background)"
+    },
+    {
+      "cat_no": "P005446",
+      "figure_num": 5,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P005498",
+      "figure_num": 2,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P005498",
+      "figure_num": 3,
+      "raw_label": "Chicken"
+    },
+    {
+      "cat_no": "P005498",
+      "figure_num": 4,
+      "raw_label": "Rooster"
+    },
+    {
+      "cat_no": "P005498",
+      "figure_num": 5,
+      "raw_label": "Woman's Reflection"
+    },
+    {
+      "cat_no": "P005539",
+      "figure_num": 4,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P005539",
+      "figure_num": 5,
+      "raw_label": "Tree"
+    },
+    {
+      "cat_no": "P005615",
+      "figure_num": 4,
+      "raw_label": "Figure in Yellow Robe"
+    },
+    {
+      "cat_no": "P005615",
+      "figure_num": 5,
+      "raw_label": "Crucifix"
+    },
+    {
+      "cat_no": "P005681",
+      "figure_num": 2,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P005681",
+      "figure_num": 3,
+      "raw_label": "Rooster"
+    },
+    {
+      "cat_no": "P005681",
+      "figure_num": 4,
+      "raw_label": "Hay"
+    },
+    {
+      "cat_no": "P005681",
+      "figure_num": 5,
+      "raw_label": "Wall"
+    },
+    {
+      "cat_no": "P005685",
+      "figure_num": 4,
+      "raw_label": "Priest"
+    },
+    {
+      "cat_no": "P005706",
+      "figure_num": 3,
+      "raw_label": "Cat"
+    },
+    {
+      "cat_no": "P005706",
+      "figure_num": 4,
+      "raw_label": "Door"
+    },
+    {
+      "cat_no": "P005706",
+      "figure_num": 5,
+      "raw_label": "Staircase"
+    },
+    {
+      "cat_no": "P005768",
+      "figure_num": 4,
+      "raw_label": "Bull"
+    },
+    {
+      "cat_no": "P005768",
+      "figure_num": 5,
+      "raw_label": "Altar"
+    },
+    {
+      "cat_no": "P005776",
+      "figure_num": 4,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P005776",
+      "figure_num": 5,
+      "raw_label": "Cat"
+    },
+    {
+      "cat_no": "P005816",
+      "figure_num": 5,
+      "raw_label": "Ram's Head"
+    },
+    {
+      "cat_no": "P005890",
+      "figure_num": 3,
+      "raw_label": "Hanging Birds"
+    },
+    {
+      "cat_no": "P005890",
+      "figure_num": 4,
+      "raw_label": "Basket"
+    },
+    {
+      "cat_no": "P005890",
+      "figure_num": 5,
+      "raw_label": "Fish"
+    },
+    {
+      "cat_no": "P005925",
+      "figure_num": 4,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P005925",
+      "figure_num": 5,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P005925",
+      "figure_num": 6,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P005925",
+      "figure_num": 7,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P005925",
+      "figure_num": 8,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P005925",
+      "figure_num": 9,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P005925",
+      "figure_num": 10,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P005925",
+      "figure_num": 11,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P005953",
+      "figure_num": 4,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P005973",
+      "figure_num": 4,
+      "raw_label": "Background Elements"
+    },
+    {
+      "cat_no": "P005992",
+      "figure_num": 3,
+      "raw_label": "Sheep"
+    },
+    {
+      "cat_no": "P005992",
+      "figure_num": 4,
+      "raw_label": "Sheep (Close-up)"
+    },
+    {
+      "cat_no": "P005992",
+      "figure_num": 5,
+      "raw_label": "Sheep (Close-up)"
+    },
+    {
+      "cat_no": "P006015",
+      "figure_num": 3,
+      "raw_label": "Serpent"
+    },
+    {
+      "cat_no": "P006055",
+      "figure_num": 5,
+      "raw_label": "Male (Dog)"
+    },
+    {
+      "cat_no": "P006139",
+      "figure_num": 4,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P006201",
+      "figure_num": 3,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P006201",
+      "figure_num": 5,
+      "raw_label": "Woman in Garden"
+    },
+    {
+      "cat_no": "P006229",
+      "figure_num": 2,
+      "raw_label": "Chickens"
+    },
+    {
+      "cat_no": "P006229",
+      "figure_num": 3,
+      "raw_label": "House"
+    },
+    {
+      "cat_no": "P006229",
+      "figure_num": 4,
+      "raw_label": "Trees"
+    },
+    {
+      "cat_no": "P006229",
+      "figure_num": 5,
+      "raw_label": "Barn"
+    },
+    {
+      "cat_no": "P006233",
+      "figure_num": 3,
+      "raw_label": "Hawk"
+    },
+    {
+      "cat_no": "P006233",
+      "figure_num": 4,
+      "raw_label": "Duck (on the ground)"
+    },
+    {
+      "cat_no": "P006233",
+      "figure_num": 5,
+      "raw_label": "Duck (in flight)"
+    },
+    {
+      "cat_no": "P006294",
+      "figure_num": 5,
+      "raw_label": "Inanimate Object"
+    },
+    {
+      "cat_no": "P006359",
+      "figure_num": 1,
+      "raw_label": "Cat"
+    },
+    {
+      "cat_no": "P006413",
+      "figure_num": 1,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P006413",
+      "figure_num": 2,
+      "raw_label": "Vase"
+    },
+    {
+      "cat_no": "P006413",
+      "figure_num": 3,
+      "raw_label": "Clock"
+    },
+    {
+      "cat_no": "P006413",
+      "figure_num": 4,
+      "raw_label": "Tablecloth"
+    },
+    {
+      "cat_no": "P006413",
+      "figure_num": 5,
+      "raw_label": "Jug"
+    },
+    {
+      "cat_no": "P006415",
+      "figure_num": 3,
+      "raw_label": "Donkey"
+    },
+    {
+      "cat_no": "P006415",
+      "figure_num": 5,
+      "raw_label": "Woman in Red Dress"
+    },
+    {
+      "cat_no": "P006429",
+      "figure_num": 2,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P006440",
+      "figure_num": 3,
+      "raw_label": "Bread"
+    },
+    {
+      "cat_no": "P006440",
+      "figure_num": 4,
+      "raw_label": "Table"
+    },
+    {
+      "cat_no": "P006440",
+      "figure_num": 5,
+      "raw_label": "Window"
+    },
+    {
+      "cat_no": "P006520",
+      "figure_num": 4,
+      "raw_label": "Swan"
+    },
+    {
+      "cat_no": "P006520",
+      "figure_num": 5,
+      "raw_label": "Swan"
+    },
+    {
+      "cat_no": "P006563",
+      "figure_num": 1,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P006563",
+      "figure_num": 2,
+      "raw_label": "Basket of Fish"
+    },
+    {
+      "cat_no": "P006563",
+      "figure_num": 3,
+      "raw_label": "Vase with Fruit"
+    },
+    {
+      "cat_no": "P006563",
+      "figure_num": 4,
+      "raw_label": "Dove"
+    },
+    {
+      "cat_no": "P006563",
+      "figure_num": 5,
+      "raw_label": "Dead Bird"
+    },
+    {
+      "cat_no": "P006613",
+      "figure_num": 3,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P006613",
+      "figure_num": 4,
+      "raw_label": "Sheep"
+    },
+    {
+      "cat_no": "P006613",
+      "figure_num": 5,
+      "raw_label": "Tree"
+    },
+    {
+      "cat_no": "P006671",
+      "figure_num": 4,
+      "raw_label": "Train Engineer"
+    },
+    {
+      "cat_no": "P006671",
+      "figure_num": 5,
+      "raw_label": "Train Driver"
+    },
+    {
+      "cat_no": "P006682",
+      "figure_num": 3,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P006682",
+      "figure_num": 4,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P006749",
+      "figure_num": 5,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P006772",
+      "figure_num": 5,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P006808",
+      "figure_num": 3,
+      "raw_label": "Cow 1"
+    },
+    {
+      "cat_no": "P006808",
+      "figure_num": 4,
+      "raw_label": "Cow 2"
+    },
+    {
+      "cat_no": "P006808",
+      "figure_num": 5,
+      "raw_label": "Cow 3"
+    },
+    {
+      "cat_no": "P006827",
+      "figure_num": 4,
+      "raw_label": "Sheep"
+    },
+    {
+      "cat_no": "P006827",
+      "figure_num": 5,
+      "raw_label": "Woman (in background)"
+    },
+    {
+      "cat_no": "P006879",
+      "figure_num": 1,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P006879",
+      "figure_num": 2,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P006879",
+      "figure_num": 3,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P006879",
+      "figure_num": 4,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P006879",
+      "figure_num": 5,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P006880",
+      "figure_num": 3,
+      "raw_label": "Flower Basket"
+    },
+    {
+      "cat_no": "P006880",
+      "figure_num": 4,
+      "raw_label": "Flowers"
+    },
+    {
+      "cat_no": "P006880",
+      "figure_num": 5,
+      "raw_label": "Background"
+    },
+    {
+      "cat_no": "P006936",
+      "figure_num": 3,
+      "raw_label": "Chicks"
+    },
+    {
+      "cat_no": "P006936",
+      "figure_num": 4,
+      "raw_label": "Hawk"
+    },
+    {
+      "cat_no": "P006936",
+      "figure_num": 5,
+      "raw_label": "Adult Bird"
+    },
+    {
+      "cat_no": "P006999",
+      "figure_num": 5,
+      "raw_label": "Swan"
+    },
+    {
+      "cat_no": "P007346",
+      "figure_num": 3,
+      "raw_label": "Bird"
+    },
+    {
+      "cat_no": "P007346",
+      "figure_num": 4,
+      "raw_label": "Bird"
+    },
+    {
+      "cat_no": "P007346",
+      "figure_num": 5,
+      "raw_label": "Bird"
+    },
+    {
+      "cat_no": "P007379",
+      "figure_num": 4,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P007379",
+      "figure_num": 5,
+      "raw_label": "House"
+    },
+    {
+      "cat_no": "P007384",
+      "figure_num": 5,
+      "raw_label": "Parrot"
+    },
+    {
+      "cat_no": "P007494",
+      "figure_num": 5,
+      "raw_label": "Statue"
+    },
+    {
+      "cat_no": "P007522",
+      "figure_num": 4,
+      "raw_label": "Building"
+    },
+    {
+      "cat_no": "P007522",
+      "figure_num": 5,
+      "raw_label": "Landscape"
+    },
+    {
+      "cat_no": "P007535",
+      "figure_num": 5,
+      "raw_label": "Bird"
+    },
+    {
+      "cat_no": "P007657",
+      "figure_num": 4,
+      "raw_label": "Monkey"
+    },
+    {
+      "cat_no": "P007665",
+      "figure_num": 4,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P007665",
+      "figure_num": 5,
+      "raw_label": "Donkey"
+    },
+    {
+      "cat_no": "P007677",
+      "figure_num": 3,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P007677",
+      "figure_num": 4,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P007677",
+      "figure_num": 5,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P007716",
+      "figure_num": 5,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P007719",
+      "figure_num": 1,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P007843",
+      "figure_num": 3,
+      "raw_label": "Bull"
+    },
+    {
+      "cat_no": "P007843",
+      "figure_num": 4,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P007847",
+      "figure_num": 2,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P007847",
+      "figure_num": 3,
+      "raw_label": "Knight"
+    },
+    {
+      "cat_no": "P007847",
+      "figure_num": 4,
+      "raw_label": "Shield"
+    },
+    {
+      "cat_no": "P007847",
+      "figure_num": 5,
+      "raw_label": "Background"
+    },
+    {
+      "cat_no": "P007882",
+      "figure_num": 2,
+      "raw_label": "Shell"
+    },
+    {
+      "cat_no": "P007882",
+      "figure_num": 3,
+      "raw_label": "Books"
+    },
+    {
+      "cat_no": "P007882",
+      "figure_num": 4,
+      "raw_label": "Seashells"
+    },
+    {
+      "cat_no": "P007882",
+      "figure_num": 5,
+      "raw_label": "Map"
+    },
+    {
+      "cat_no": "P007895",
+      "figure_num": 2,
+      "raw_label": "Inanimate Object"
+    },
+    {
+      "cat_no": "P007895",
+      "figure_num": 3,
+      "raw_label": "Pumpkins"
+    },
+    {
+      "cat_no": "P007895",
+      "figure_num": 4,
+      "raw_label": "Vase"
+    },
+    {
+      "cat_no": "P007895",
+      "figure_num": 5,
+      "raw_label": "Tree Trunk"
+    },
+    {
+      "cat_no": "P007938",
+      "figure_num": 1,
+      "raw_label": "Fish"
+    },
+    {
+      "cat_no": "P007959",
+      "figure_num": 4,
+      "raw_label": "Woman (Seated)"
+    },
+    {
+      "cat_no": "P007997",
+      "figure_num": 1,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P008035",
+      "figure_num": 3,
+      "raw_label": "Donkey 1"
+    },
+    {
+      "cat_no": "P008035",
+      "figure_num": 4,
+      "raw_label": "Donkey 2"
+    },
+    {
+      "cat_no": "P008035",
+      "figure_num": 5,
+      "raw_label": "Dog"
+    },
+    {
+      "cat_no": "P008042",
+      "figure_num": 3,
+      "raw_label": "Cow"
+    },
+    {
+      "cat_no": "P008042",
+      "figure_num": 4,
+      "raw_label": "Tree"
+    },
+    {
+      "cat_no": "P008042",
+      "figure_num": 5,
+      "raw_label": "Landscape"
+    },
+    {
+      "cat_no": "P008148",
+      "figure_num": 1,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P008151",
+      "figure_num": 4,
+      "raw_label": "Male (background)"
+    },
+    {
+      "cat_no": "P008152",
+      "figure_num": 2,
+      "raw_label": "Crucifixion Scene"
+    },
+    {
+      "cat_no": "P008152",
+      "figure_num": 3,
+      "raw_label": "Book"
+    },
+    {
+      "cat_no": "P008152",
+      "figure_num": 4,
+      "raw_label": "Tablecloth"
+    },
+    {
+      "cat_no": "P008152",
+      "figure_num": 5,
+      "raw_label": "Cross"
+    },
+    {
+      "cat_no": "P008210",
+      "figure_num": 4,
+      "raw_label": "Skull"
+    },
+    {
+      "cat_no": "P008210",
+      "figure_num": 5,
+      "raw_label": "Cross"
+    },
+    {
+      "cat_no": "P008224",
+      "figure_num": 5,
+      "raw_label": "Cherubs"
+    },
+    {
+      "cat_no": "P008438",
+      "figure_num": 3,
+      "raw_label": "Skull"
+    },
+    {
+      "cat_no": "P008438",
+      "figure_num": 4,
+      "raw_label": "Clock"
+    },
+    {
+      "cat_no": "P008438",
+      "figure_num": 5,
+      "raw_label": "Gold Objects"
+    },
+    {
+      "cat_no": "P008466",
+      "figure_num": 4,
+      "raw_label": "Horse"
+    },
+    {
+      "cat_no": "P008466",
+      "figure_num": 5,
+      "raw_label": "Windmill"
+    }
+  ],
+  "no_figure_artworks": [
+    {
+      "cat_no": "P000233",
+      "context": "secular",
+      "reason": "This image is a painting depicting a bustling harbor scene with numerous ships and a cityscape in the background. Since it is a painting and not a photograph of real people, there are no individuals t"
+    },
+    {
+      "cat_no": "P000316",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring various seafood items arranged on a table. There are no human figures present in the painting.\n\nThe main elements in the painting include:\n\n1. **Fish**: S"
+    },
+    {
+      "cat_no": "P000317",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring various fish and other objects, but there are no human figures present. Therefore, I cannot provide the requested descriptions for human figures. However,"
+    },
+    {
+      "cat_no": "P000318",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring various food items, including fish, onions, and corn. There are no human figures present in the painting.\n\nThe fish hanging from the top of the painting a"
+    },
+    {
+      "cat_no": "P000320",
+      "context": "secular",
+      "reason": "This painting does not depict any human figures but instead features various still-life elements. Here is the analysis of the main figures:\n\n1. **Fish**: Male/Female: The fish appears lifeless, lying "
+    },
+    {
+      "cat_no": "P000550",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring an elaborate bouquet of flowers arranged in a vase. There are no human figures present in the painting.\n\nThe bouquet itself is richly detailed, with a var"
+    },
+    {
+      "cat_no": "P000592",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring a bouquet of flowers arranged in a basket. There are no human figures present in the painting.\n\nThe flowers are depicted with vibrant colors and intricate"
+    },
+    {
+      "cat_no": "P000898",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. It is a landscape scene with trees, rocks, and a cloudy sky. Therefore, there are no figures to describe in the requested format."
+    },
+    {
+      "cat_no": "P000903",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in the requested format. The painting features various objects such as fish, gar"
+    },
+    {
+      "cat_no": "P000907",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in terms of body posture, gaze direction, facial expression, or any other human "
+    },
+    {
+      "cat_no": "P000918",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in terms of body posture, gaze direction, facial expression, or dominance/submis"
+    },
+    {
+      "cat_no": "P001053",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring a bouquet of flowers arranged in a vase. There are no human figures present in the painting.\n\nThe flowers include roses in various colors such as red, pin"
+    },
+    {
+      "cat_no": "P001164",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in terms of body posture, gaze direction, facial expression, or any other human "
+    },
+    {
+      "cat_no": "P001343",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in terms of body posture, gaze direction, facial expression, or any other human "
+    },
+    {
+      "cat_no": "P001358",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. It is a landscape painting featuring trees, a river, and a sky with clouds. Therefore, there are no figures to describe in the requested format."
+    },
+    {
+      "cat_no": "P001385",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. It is a landscape scene featuring a castle surrounded by dense forest and a river. The focus is on the natural elements rather than any human presence"
+    },
+    {
+      "cat_no": "P001421",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring a bouquet of flowers in a vase. There are no human figures present in the painting.\n\nThe bouquet consists of various types of flowers, including tulips, r"
+    },
+    {
+      "cat_no": "P001422",
+      "context": "secular",
+      "reason": "There is no human figure present in this painting. The main subject is a floral arrangement in a decorative bowl. The flowers are diverse in color and type, including roses, carnations, and other blos"
+    },
+    {
+      "cat_no": "P001423",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring a bouquet of flowers in a glass vase. There are no human figures present in the painting.\n\nThe flowers are arranged in a clear glass vase with intricate p"
+    },
+    {
+      "cat_no": "P001424",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring a bouquet of flowers arranged in a vase. There are no human figures present in the painting.\n\nThe bouquet consists of various types of flowers, including "
+    },
+    {
+      "cat_no": "P001447",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring a bouquet of flowers arranged in a glass vase. There are no human figures present in the painting.\n\nThe flowers include a red tulip, white flowers, blue f"
+    },
+    {
+      "cat_no": "P001449",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. It is a still life featuring an elaborate bouquet of flowers arranged in a decorative vase. The flowers include various types such as roses, tulips, l"
+    },
+    {
+      "cat_no": "P001462",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in the requested format."
+    },
+    {
+      "cat_no": "P001504",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in terms of body posture, gaze direction, facial expression, or any other human "
+    },
+    {
+      "cat_no": "P001505",
+      "context": "secular",
+      "reason": "This image is a still life painting, so there are no human figures present. Therefore, I cannot provide the requested descriptions for human figures. However, I can describe the objects in the paintin"
+    },
+    {
+      "cat_no": "P001554",
+      "context": "secular",
+      "reason": "This image is a complex and detailed diorama depicting various scenes of animals in different environments. It does not contain human figures but instead showcases a variety of animals in dynamic pose"
+    },
+    {
+      "cat_no": "P001578",
+      "context": "secular",
+      "reason": "This painting does not depict any human figures. Instead, it features a landscape with ruins, animals, and trees. Therefore, there are no main figures to describe in the requested format."
+    },
+    {
+      "cat_no": "P001583",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. Instead, it depicts a serene landscape with trees, rocks, animals, and a distant castle. The focus is on the natural elements rather than human charac"
+    },
+    {
+      "cat_no": "P001606",
+      "context": "secular",
+      "reason": "This image is a still life painting, so there are no human figures present. Therefore, I cannot provide the requested descriptions for human figures. However, I can describe the objects and their arra"
+    },
+    {
+      "cat_no": "P001621",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring various objects, including fish, crabs, an artichoke, a colander, a candlestick, a goblet, and a decorative vase. There are no human figures present in th"
+    },
+    {
+      "cat_no": "P001622",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in terms of body posture, gaze direction, facial expressions, or any other human"
+    },
+    {
+      "cat_no": "P001728",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. It is a landscape painting depicting a forest scene with trees and a path. Therefore, there are no figures to describe in the requested format."
+    },
+    {
+      "cat_no": "P001729",
+      "context": "secular",
+      "reason": "This painting does not depict any human figures. Instead, it portrays a serene landscape with trees, a river, and a cloudy sky. The focus is on the natural elements rather than any human presence. The"
+    },
+    {
+      "cat_no": "P001768",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. Instead, it features a still life composition with various objects such as fruits, vegetables, a bird, and a dead rabbit. Therefore, there are no figu"
+    },
+    {
+      "cat_no": "P001774",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring various fruits and bread items arranged on a table. There are no human figures present in the painting.\n\nThe main elements in the painting include:\n1. Gra"
+    },
+    {
+      "cat_no": "P001775",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring various fruits and flowers. There are no human figures present in the painting.\n\nThe fruits include a sliced lemon, an orange peel, cherries, grapes, and "
+    },
+    {
+      "cat_no": "P001776",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring an abundance of fruits and foliage. There are no human figures present in the painting.\n\nThe fruits include grapes, cherries, pears, plums, and other asso"
+    },
+    {
+      "cat_no": "P001847",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in terms of body posture, gaze direction, facial expression, or any other human "
+    },
+    {
+      "cat_no": "P001852",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. Instead, it is a still life featuring an array of fruits, vegetables, game birds, and other natural elements. The focus is on the arrangement and deta"
+    },
+    {
+      "cat_no": "P001902",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. Instead, it features a floral arrangement and a landscape scene framed by the flowers. Therefore, there are no main figures to describe in terms of bo"
+    },
+    {
+      "cat_no": "P001903",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. Instead, it is a still life featuring an elaborate floral arrangement surrounding a mirror. The flowers include roses, tulips, and other blooms in var"
+    },
+    {
+      "cat_no": "P001908",
+      "context": "religious",
+      "reason": "This painting does not depict any human figures. Instead, it is a floral still life with a wreath of flowers surrounding the central area. The flowers include tulips, roses, and other blooms in variou"
+    },
+    {
+      "cat_no": "P001911",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring a bouquet of flowers with a butterfly. There are no human figures present in the painting.\n\nThe bouquet consists of various flowers including roses, holly"
+    },
+    {
+      "cat_no": "P001913",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. It is a still life featuring a decorative arrangement of fruits, flowers, and leaves within an ornate frame. The focus is on the natural elements rath"
+    },
+    {
+      "cat_no": "P001991",
+      "context": "religious",
+      "reason": "The painting depicts a central figure that appears to be a male, seated and slightly reclined within an ornate architectural frame. The figure's posture is relaxed yet commanding, with one arm resting"
+    },
+    {
+      "cat_no": "P001992",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring various fruits and foliage. There are no human figures present in the painting.\n\nThe fruits include pomegranates, grapes, peaches, plums, and cherries, ar"
+    },
+    {
+      "cat_no": "P002000",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in terms of body posture, gaze direction, facial expression, or any other human "
+    },
+    {
+      "cat_no": "P002047",
+      "context": "secular",
+      "reason": "The provided image is a painting depicting several ships at sea under a dramatic sky. The focus of the description is on the ships and their sails rather than individual human figures. Therefore, ther"
+    },
+    {
+      "cat_no": "P002057",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. It is a landscape scene featuring trees, a small house, mountains, and a serene countryside. Therefore, there are no figures to describe in the reques"
+    },
+    {
+      "cat_no": "P002072",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring various fruits and a glass of wine. There are no human figures present in the painting.\n\nThe fruits include grapes, peaches, cherries, and possibly pears,"
+    },
+    {
+      "cat_no": "P002089",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring various fruits and objects arranged on a table. There are no human figures present in the painting.\n\nThe fruits include grapes, oranges, peaches, a melon,"
+    },
+    {
+      "cat_no": "P002090",
+      "context": "secular",
+      "reason": "This painting is a still life, so there are no human figures present. Therefore, I cannot provide descriptions of human figures as requested. However, I can describe the objects and their arrangement "
+    },
+    {
+      "cat_no": "P002091",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no main figures to describe in the requested format. The painting features an elaborate arrangement of food, "
+    },
+    {
+      "cat_no": "P002137",
+      "context": "secular",
+      "reason": "This painting is a still life, so there are no human figures present. Therefore, I cannot provide descriptions of human figures as requested. However, the painting does feature various objects arrange"
+    },
+    {
+      "cat_no": "P002144",
+      "context": "secular",
+      "reason": "This image is a painting depicting a naval scene with multiple ships. The focus appears to be on the central group of ships, which are adorned with flags. However, there are no human figures depicted "
+    },
+    {
+      "cat_no": "P002159",
+      "context": "secular",
+      "reason": "This image is a painting depicting two ships at sea. The focus is on the ships themselves rather than individual figures, as there are no distinct human figures visible in the scene. Therefore, I cann"
+    },
+    {
+      "cat_no": "P002163",
+      "context": "secular",
+      "reason": "This image is a painting depicting a maritime scene with several ships in turbulent waters. The focus appears to be on the ships themselves rather than individual human figures. However, if we were to"
+    },
+    {
+      "cat_no": "P002173",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. Instead, it depicts a landscape with a castle, trees, rocks, and two celestial bodies in the sky. Therefore, there are no figures to describe in terms"
+    },
+    {
+      "cat_no": "P002507",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring a bouquet of flowers arranged in a vase. There are no human figures present in the painting. Therefore, there are no main figures to describe in terms of "
+    },
+    {
+      "cat_no": "P002508",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring an elaborate arrangement of flowers and foliage. There are no human figures present in the painting.\n\nThe flowers are arranged in a decorative, ornate con"
+    },
+    {
+      "cat_no": "P002632",
+      "context": "secular",
+      "reason": "This image is a detailed depiction of the Colosseum, a Roman amphitheater, filled with spectators and participants in what appears to be a gladiatorial event. The focus is on the grandeur of the struc"
+    },
+    {
+      "cat_no": "P002728",
+      "context": "religious",
+      "reason": "This painting does not contain any human figures. Instead, it is a still life featuring an elaborate arrangement of fruits and foliage. The composition includes grapes, cherries, pears, plums, and oth"
+    },
+    {
+      "cat_no": "P002749",
+      "context": "secular",
+      "reason": "This painting does not depict any human figures but instead focuses on various fish and other aquatic creatures. Therefore, I cannot provide the requested descriptions for human figures.\n\nHowever, if "
+    },
+    {
+      "cat_no": "P002755",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in terms of body posture, gaze direction, facial expression, or any other human "
+    },
+    {
+      "cat_no": "P002756",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in terms of body posture, gaze direction, facial expression, or any other human "
+    },
+    {
+      "cat_no": "P002757",
+      "context": "secular",
+      "reason": "This image is a still life painting, so there are no human figures present. Therefore, I cannot provide descriptions of human figures as requested. However, I can describe the objects and elements in "
+    },
+    {
+      "cat_no": "P002779",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring a bouquet of flowers. There are no human figures present in the painting.\n\nThe painting depicts a vibrant arrangement of flowers, including white and pink"
+    },
+    {
+      "cat_no": "P002905",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in the requested format. The painting showcases an array of food items, kitchenw"
+    },
+    {
+      "cat_no": "P002906",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures; instead, it depicts a still life scene with various animals and objects. Therefore, there are no figures to describe in the requested format."
+    },
+    {
+      "cat_no": "P003083",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures; it is a still life of flowers and butterflies. Therefore, there are no figures to describe in the requested format."
+    },
+    {
+      "cat_no": "P003138",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring a bouquet of flowers arranged in a woven basket. There are no human figures present in the painting.\n\nThe flowers are vibrant and diverse, including roses"
+    },
+    {
+      "cat_no": "P003139",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring a basket of flowers. There are no human figures present in the painting.\n\nThe main focus of the painting is the basket filled with a variety of colorful f"
+    },
+    {
+      "cat_no": "P003157",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring an elaborate floral arrangement. There are no human figures present in the painting.\n\nThe painting depicts a dense bouquet of flowers in various colors, i"
+    },
+    {
+      "cat_no": "P003658",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring grapes and a snail. There are no human figures present in the painting.\n\nThe grapes are depicted in various colors, including red, white, and purple, with"
+    },
+    {
+      "cat_no": "P003728",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. It is a still life depicting various types of fish, seafood, and other food items arranged in a manner that suggests a kitchen or market setting. The "
+    },
+    {
+      "cat_no": "P003729",
+      "context": "secular",
+      "reason": "This painting does not depict any human figures. Instead, it portrays a night scene with a full moon, a fortified structure, boats, and a tree. Therefore, there are no main figures to describe in the "
+    },
+    {
+      "cat_no": "P003834",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no main figures to describe in the requested format. The painting focuses on various kitchen utensils, pots, "
+    },
+    {
+      "cat_no": "P003835",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no main figures to describe in the requested format. The painting features various objects such as fish, frui"
+    },
+    {
+      "cat_no": "P003910",
+      "context": "secular",
+      "reason": "There is no human figure present in the painting. The main subject is a shipwreck, which appears to be the focal point of the scene. The ship's structure is partially submerged, with its broken hull r"
+    },
+    {
+      "cat_no": "P003999",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring a collection of figs as the main subject. There are no human figures present in the painting.\n\nThe figs are depicted with various colors and textures, som"
+    },
+    {
+      "cat_no": "P004012",
+      "context": "secular",
+      "reason": "This image is a historical depiction of the fire at the Monastery of San Lorenzo de El Escorial, Spain, in 1734. It is not a painting but rather a lithograph by Francisco Piranesi. The scene is chaoti"
+    },
+    {
+      "cat_no": "P004148",
+      "context": "secular",
+      "reason": "This image is a painting depicting a maritime scene with several ships. The focus appears to be on the central ship, which is larger and more ornate than the others. However, there are no distinct hum"
+    },
+    {
+      "cat_no": "P004154",
+      "context": "secular",
+      "reason": "This painting does not depict any human figures but instead features a still life arrangement of various animals and vegetables. Here is the analysis for the main elements:\n\n1. **Hanging Rabbit**: The"
+    },
+    {
+      "cat_no": "P004190",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. It is a landscape painting depicting a serene river scene with trees, water, and boats. Therefore, there are no figures to describe in the requested f"
+    },
+    {
+      "cat_no": "P004218",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. It depicts a natural landscape with a river flowing through it, surrounded by trees and hills under a dramatic sky. Therefore, there are no figures to"
+    },
+    {
+      "cat_no": "P004359",
+      "context": "secular",
+      "reason": "There are no human figures present in this painting. The scene depicts a serene landscape with mountains, trees, and a few animals grazing in the foreground."
+    },
+    {
+      "cat_no": "P004363",
+      "context": "secular",
+      "reason": "This image is a landscape painting featuring a pastoral scene with cows grazing in a field. There are no human figures present in the painting.\n\nThe cows are depicted as the main figures in the painti"
+    },
+    {
+      "cat_no": "P004390",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. It is a landscape painting depicting a mountainous scene with rocky cliffs, greenery, and a clear sky. Therefore, there are no figures to describe in "
+    },
+    {
+      "cat_no": "P004818",
+      "context": "secular",
+      "reason": "This painting does not depict any human figures. Instead, it portrays a serene rural landscape with a river, boats, trees, and houses. Therefore, there are no figures to describe in the requested form"
+    },
+    {
+      "cat_no": "P004844",
+      "context": "secular",
+      "reason": "This image is a painting depicting a maritime scene with various ships and boats on the water. The focus appears to be on the ships and the surrounding environment rather than on human figures. Theref"
+    },
+    {
+      "cat_no": "P005016",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring various fruits and vegetables arranged in baskets and on the ground. There are no human figures present in the painting.\n\nThe painting depicts a variety o"
+    },
+    {
+      "cat_no": "P005202",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring a bouquet of flowers arranged in a vase. There are no human figures present in the painting.\n\nThe flowers include roses, carnations, daisies, and other va"
+    },
+    {
+      "cat_no": "P005366",
+      "context": "secular",
+      "reason": "This image is a painting depicting a harbor scene with several boats and a stone structure. There are no human figures visible in the painting. Therefore, there are no main figures to describe accordi"
+    },
+    {
+      "cat_no": "P005372",
+      "context": "secular",
+      "reason": "This image is a landscape painting and does not contain any human figures. Therefore, there are no figures to describe in the requested format."
+    },
+    {
+      "cat_no": "P005622",
+      "context": "secular",
+      "reason": "This image is a landscape painting depicting a serene coastal scene with no human figures present. Therefore, there are no main figures to describe in the requested format."
+    },
+    {
+      "cat_no": "P005758",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in terms of body posture, gaze direction, facial expressions, or any other human"
+    },
+    {
+      "cat_no": "P005818",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring a bouquet of flowers, a bird, and some other objects. There are no human figures present in the painting.\n\n1. **Bouquet**: The bouquet consists of various"
+    },
+    {
+      "cat_no": "P005945",
+      "context": "secular",
+      "reason": "This image is a historical depiction of a naval battle, likely from the 17th century, given the style of the ships and the attire of the individuals. The focus is on the ships and their crews rather t"
+    },
+    {
+      "cat_no": "P005946",
+      "context": "secular",
+      "reason": "This image is a historical painting depicting a naval scene with multiple ships. The focus appears to be on the ships themselves rather than individual figures. However, if we were to describe the shi"
+    },
+    {
+      "cat_no": "P005948",
+      "context": "secular",
+      "reason": "This image is a historical depiction of a naval battle, not a portrait with individual human figures. Therefore, it's not possible to provide the requested descriptions for \"main figures\" as per your "
+    },
+    {
+      "cat_no": "P005950",
+      "context": "secular",
+      "reason": "This image is a historical depiction of a naval battle, not a portrait with individual human figures. Therefore, it's not possible to provide the requested descriptions for \"main figures\" as per your "
+    },
+    {
+      "cat_no": "P006008",
+      "context": "secular",
+      "reason": "This painting does not depict any human figures. Instead, it features a landscape with trees, mountains, and animals. Therefore, there are no figures to describe in the requested format."
+    },
+    {
+      "cat_no": "P006251",
+      "context": "secular",
+      "reason": "This image is a landscape painting featuring no human figures. Therefore, there are no figures to describe in the requested format."
+    },
+    {
+      "cat_no": "P006281",
+      "context": "secular",
+      "reason": "There is no human figure present in this painting. The main subject depicted is the ocean itself, with its dynamic waves and turbulent waters. The painting captures the raw power and energy of nature,"
+    },
+    {
+      "cat_no": "P006317",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring a bouquet of flowers arranged in a vase. There are no human figures present in the painting.\n\nThe flowers include various types such as tulips, roses, lil"
+    },
+    {
+      "cat_no": "P006378",
+      "context": "secular",
+      "reason": "This image is a landscape painting, not a portrait with human figures. Therefore, there are no human figures to describe in the requested format. The painting depicts a rural scene with a small wooden"
+    },
+    {
+      "cat_no": "P006538",
+      "context": "secular",
+      "reason": "This image is a landscape painting, not a portrait with human figures. Therefore, there are no main figures to describe in the requested format. The painting depicts a serene rural scene with mountain"
+    },
+    {
+      "cat_no": "P006598",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. It depicts a coastal landscape with waves, rocks, and a distant view of hills or mountains under a cloudy sky. Therefore, there are no figures to desc"
+    },
+    {
+      "cat_no": "P006607",
+      "context": "secular",
+      "reason": "This painting does not depict any human figures. Instead, it portrays a serene landscape with a river, boats, trees, and sheep grazing. The focus is on the natural elements rather than any human prese"
+    },
+    {
+      "cat_no": "P006631",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. It depicts a serene natural landscape with trees, rocks, and a stream. Therefore, there are no figures to describe in the requested format."
+    },
+    {
+      "cat_no": "P006700",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. It depicts a natural seascape with rocks, waves, and a cloudy sky. Therefore, there are no figures to describe in the requested format."
+    },
+    {
+      "cat_no": "P006728",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in terms of body posture, gaze direction, facial expressions, or any other human"
+    },
+    {
+      "cat_no": "P006834",
+      "context": "secular",
+      "reason": "There are no human figures present in this painting. The scene depicts a serene landscape with tall trees, a grassy field, and a distant view of water under a partly cloudy sky."
+    },
+    {
+      "cat_no": "P006990",
+      "context": "secular",
+      "reason": "This painting does not depict any human figures. Instead, it portrays a serene landscape with fields, houses, and the sea under a partly cloudy sky. Therefore, there are no figures to describe in term"
+    },
+    {
+      "cat_no": "P007068",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in the requested format. The painting features various objects such as copper po"
+    },
+    {
+      "cat_no": "P007187",
+      "context": "secular",
+      "reason": "This image is a painting depicting a naval battle scene. The focus is on the ships and their crews rather than individual figures. However, I can describe the general posture and demeanor of the ships"
+    },
+    {
+      "cat_no": "P007193",
+      "context": "secular",
+      "reason": "There is no human figure present in this painting. The main elements depicted are objects arranged on a table, including food, drink, and decorative items. Therefore, there are no figures to describe "
+    },
+    {
+      "cat_no": "P007294",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring various objects rather than human figures. Therefore, there are no human figures to describe in the requested format.\n\nHowever, I can describe the objects"
+    },
+    {
+      "cat_no": "P007312",
+      "context": "religious",
+      "reason": "This image appears to be a photograph of an old, possibly damaged piece of paper or parchment with no discernible figures or content that can be described as a painting. Therefore, there are no figure"
+    },
+    {
+      "cat_no": "P007326",
+      "context": "religious",
+      "reason": "This image appears to be an abstract composition rather than a traditional portrait of human figures. Therefore, it does not contain any identifiable human figures that can be described with the reque"
+    },
+    {
+      "cat_no": "P007408",
+      "context": "secular",
+      "reason": "There is no human figure present in this painting. The main figure depicted is the shipwreck itself, which appears to be the central focus of the artwork. The ship's broken and weathered structure lie"
+    },
+    {
+      "cat_no": "P007432",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in terms of body posture, gaze direction, facial expression, or any other human "
+    },
+    {
+      "cat_no": "P007572",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in terms of body posture, gaze direction, facial expression, or dominance/submis"
+    },
+    {
+      "cat_no": "P007612",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting human figures but rather various objects arranged in a composition. Therefore, there are no human figures to describe in the requested format.\n\nHowev"
+    },
+    {
+      "cat_no": "P007643",
+      "context": "secular",
+      "reason": "There is no human figure present in the painting. The main elements depicted are a shipwrecked boat, rocks, waves, and seagulls. Therefore, there are no figures to describe in terms of body posture, g"
+    },
+    {
+      "cat_no": "P007741",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in terms of body posture, gaze direction, facial expression, or dominance/submis"
+    },
+    {
+      "cat_no": "P007758",
+      "context": "secular",
+      "reason": "This image is a historical depiction of a naval battle, not a portrait with individual figures. Therefore, it's not possible to provide the requested descriptions for individual figures as there are n"
+    },
+    {
+      "cat_no": "P007762",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in terms of body posture, gaze direction, facial expression, or any other human "
+    },
+    {
+      "cat_no": "P007763",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in the requested format. The painting includes various objects such as a basket "
+    },
+    {
+      "cat_no": "P007884",
+      "context": "secular",
+      "reason": "This painting does not depict any human figures. Instead, it portrays an interior scene of a room richly decorated with paintings, furniture, and textiles. The focus is on the ornate details of the ro"
+    },
+    {
+      "cat_no": "P007905",
+      "context": "secular",
+      "reason": "This image is not a painting but rather a photograph of two bunches of grapes hanging against a black background. Therefore, there are no human figures present in the image to describe as per the requ"
+    },
+    {
+      "cat_no": "P007915",
+      "context": "secular",
+      "reason": "There is no human figure present in this painting. The main figure depicted is a grapevine with clusters of grapes hanging from it. The grapevine appears healthy and robust, with leaves and tendrils e"
+    },
+    {
+      "cat_no": "P007917",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring a bouquet of flowers in a vase, with no human figures present. Therefore, there are no main figures to describe in the requested format."
+    },
+    {
+      "cat_no": "P007918",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring a bouquet of flowers in a vase, with no human figures present. Therefore, there are no main figures to describe in the requested format."
+    },
+    {
+      "cat_no": "P007924",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring various fruits and objects, but there are no human figures present. Therefore, there are no figures to describe in the requested format."
+    },
+    {
+      "cat_no": "P008022",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting any human figures. Therefore, there are no human figures to describe in the requested format. The painting features various objects such as seafood, "
+    },
+    {
+      "cat_no": "P008057",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. Instead, it depicts a landscape scene with trees, animals, and a dramatic sky. Therefore, there are no figures to describe in the requested format."
+    },
+    {
+      "cat_no": "P008120",
+      "context": "religious",
+      "reason": "This image does not depict any human figures but rather appears to be a detailed depiction of an intricately carved wooden door or panel. The design is symmetrical with vertical and horizontal lines c"
+    },
+    {
+      "cat_no": "P008213",
+      "context": "secular",
+      "reason": "This painting does not depict any human figures but instead focuses on various animals and food items. Therefore, I cannot provide the requested descriptions for human figures.\n\nHowever, if you would "
+    },
+    {
+      "cat_no": "P008218",
+      "context": "secular",
+      "reason": "This image is a still life painting featuring various fruits and objects arranged on a table. There are no human figures present in the painting.\n\nThe main elements in the painting include:\n1. A baske"
+    },
+    {
+      "cat_no": "P008323",
+      "context": "secular",
+      "reason": "This painting does not contain any human figures. Instead, it is a still life with a landscape framed by an abundance of fruit and foliage. The focus is on the natural elements rather than any human p"
+    },
+    {
+      "cat_no": "P008439",
+      "context": "secular",
+      "reason": "This image is a still life painting, not depicting human figures. Therefore, there are no human figures to describe in the requested format. The painting includes various objects such as a gold clock,"
+    }
+  ]
+}

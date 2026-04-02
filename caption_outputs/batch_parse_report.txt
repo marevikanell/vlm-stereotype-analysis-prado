@@ -1,0 +1,62 @@
+============================================================
+BATCH PARSE REPORT
+============================================================
+  Input:                caption_outputs/batch_captions.json
+  Total artworks:       6266
+  With human figures:   6120
+  No figures (landscape/still life): 142
+  No caption (error):   0
+  Parse failed:         4
+
+  Total figure entries found: 19462
+  Human figures kept:         19033
+  Non-human skipped:          429
+
+  Gender breakdown:
+    Male: 12005 (63.1%)
+    Female: 6756 (35.5%)
+    Unknown: 272 (1.4%)
+
+  Avg human figures/artwork: 3.1
+  Max human figures/artwork: 6
+  Avg words/figure:         58
+
+  Context breakdown:
+    religious: 7942 figures (5067 M, 2683 F, 192 Unk)
+    secular: 11091 figures (6938 M, 4073 F, 80 Unk)
+
+  Top qualifiers:
+    Child: 194
+    Angel: 44
+    Baby: 37
+    Baby Jesus: 13
+    Infant: 13
+    Seated: 13
+    left: 8
+    right: 8
+    Background: 8
+    Cherub: 8
+    Infant Jesus: 7
+    background: 5
+    Figure (Background: 5
+    Figure (Seated: 5
+    Right: 5
+
+  Non-human entities skipped (top 10):
+    Dog: 38
+    Horse: 22
+    Cow: 21
+    Cat: 14
+    Bird: 12
+    Tree: 10
+    Sheep: 9
+    Donkey: 8
+    Landscape: 7
+    Skull: 6
+
+  Output files:
+    Figures CSV:     caption_outputs/batch_figures.csv
+    Skipped JSON:    caption_outputs/batch_skipped.json
+    This report:     caption_outputs/batch_parse_report.txt
+
+  Next: run SADCAT scoring on batch_figures.csv

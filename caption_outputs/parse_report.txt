@@ -1,0 +1,25 @@
+============================================================
+PARSE REPORT
+============================================================
+  Input:              caption_outputs/pilot_captions.json
+  Total artworks:     30
+  With figures:       30
+  No figures found:   0
+  No caption (error): 0
+  Parse failed:       0
+
+  Total figures extracted: 121
+  Gender breakdown:
+    Male: 83
+    Female: 38
+
+  Avg figures/artwork: 4.0
+  Max figures/artwork: 12
+  Avg words/figure:    45
+
+  Context breakdown:
+    religious: 70 figures (51 M, 19 F)
+    secular: 51 figures (32 M, 19 F)
+
+  Output: caption_outputs/pilot_figures.csv
+  Next step: feed descriptor_text column through SADCAT for scoring.

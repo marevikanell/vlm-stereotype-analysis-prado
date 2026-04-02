@@ -1,0 +1,67 @@
+============================================================
+SADCAT BATCH SCORING REPORT
+============================================================
+  Total figures:          19033
+  Scoring time:           108.1 minutes
+  Avg coverage:           54.7%
+  Median coverage:        55.0%
+  Min coverage:           13.3%
+  Max coverage:           100.0%
+  Zero coverage:          0
+  Figures w/ warmth:      18088
+  Figures w/ competence:  18976
+  Scoring errors:         0
+
+--- By Gender ---
+  Male (n=12005): warmth=0.357, competence=0.584, asymmetry=-0.235
+  Female (n=6756): warmth=0.477, competence=0.505, asymmetry=-0.041
+  Unknown (n=272): warmth=0.552, competence=0.161, asymmetry=0.385
+
+--- By Context x Gender ---
+  religious Male (n=5067): warmth=0.408, competence=0.535, asymmetry=-0.135
+  religious Female (n=2683): warmth=0.536, competence=0.528, asymmetry=-0.002
+  secular Male (n=6938): warmth=0.319, competence=0.619, asymmetry=-0.308
+  secular Female (n=4073): warmth=0.438, competence=0.489, asymmetry=-0.067
+
+--- All Dimensions by Gender ---
+
+  Male (n=12005):
+    Warmth             = +0.357  (scored in 11344 figures)
+    Competence         = +0.584  (scored in 11992 figures)
+    Sociability        = +0.494  (scored in 9914 figures)
+    Morality           = +0.219  (scored in 9335 figures)
+    Ability            = +0.844  (scored in 11656 figures)
+    Assertiveness      = +0.281  (scored in 11333 figures)
+    Status             = +0.818  (scored in 10135 figures)
+    Beliefs            = +0.639  (scored in 3556 figures)
+    health             = -0.785  (scored in 1797 figures)
+    beauty             = +0.986  (scored in 139 figures)
+    Religion           = +0.974  (scored in 2218 figures)
+    deviance           = -0.223  (scored in 500 figures)
+    Politics           = +0.148  (scored in 1532 figures)
+
+  Female (n=6756):
+    Warmth             = +0.477  (scored in 6482 figures)
+    Competence         = +0.505  (scored in 6712 figures)
+    Sociability        = +0.597  (scored in 6049 figures)
+    Morality           = +0.274  (scored in 5043 figures)
+    Ability            = +0.838  (scored in 6404 figures)
+    Assertiveness      = +0.141  (scored in 6147 figures)
+    Status             = +0.838  (scored in 5172 figures)
+    Beliefs            = +0.516  (scored in 2305 figures)
+    health             = -0.895  (scored in 723 figures)
+    beauty             = +1.000  (scored in 172 figures)
+    Religion           = +0.984  (scored in 1205 figures)
+    deviance           = -0.659  (scored in 439 figures)
+    Politics           = +0.060  (scored in 1224 figures)
+
+--- Asymmetry Distribution ---
+  Mean:   -0.156
+  Median: -0.167
+  SD:     0.549
+  Min:    -2.000
+  Max:    2.000
+
+============================================================
+Output: /home/agrupa-lab/agrupa/IE_capstones/Marevi/caption_outputs/batch_sadcat_scores.csv 
+Next: hypothesis testing (H1-H3)
